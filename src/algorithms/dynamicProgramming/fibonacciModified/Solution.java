@@ -5,6 +5,14 @@ import java.math.*;
 
 public class Solution {
 
+    /*
+        Sample Input
+        0 1 5
+
+        Sample Output
+        5
+    */
+
     public static BigInteger fibonacciModified(int t1, int t2, int n) {
         // Write your code here
         BigInteger bigInt1 = new BigInteger(String.valueOf(t1));
