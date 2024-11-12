@@ -4,6 +4,15 @@ import java.util.*;
 
 public class Solution {
 
+    /*
+        Sample Input
+        10101
+        00101
+
+        Sample Output
+        10000
+    */
+
     public static String stringsXOR(String s, String t) {
         String res = new String("");
         for(int i = 0; i < s.length(); i++) {
