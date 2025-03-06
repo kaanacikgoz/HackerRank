@@ -15,6 +15,7 @@ This section contains my solutions to various algorithm challenges on HackerRank
 | **Warmup**              | Birthday Cake Candles              | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/warmup/birthdayCakeCandles/Solution.java)                 |
 | **Warmup**              | Time Conversion                    | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/warmup/timeConversion/Solution.java)                      |
 | **Implementation**      | Angry Professor                    | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/angryProfessor/Solution.java)              |
+| **Implementation**      | Append and Delete                  | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/appendAndDelete/Solution.java)             |
 | **Implementation**      | Apple and Orange                   | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/appleAndOrange/Solution.java)              |
 | **Implementation**      | Beautiful Days at the Movies       | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/beautifulDaysAtTheMovies/Solution.java)    |
 | **Implementation**      | Bill Division                      | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/billDivision/Solution.java)                |
@@ -26,9 +27,13 @@ This section contains my solutions to various algorithm challenges on HackerRank
 | **Implementation**      | Designer PDF Viewer                | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/designerPdfViewer/Solution.java)           |
 | **Implementation**      | Divisible Sum Pairs                | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/divisibleSumPairs/Solution.java)           |
 | **Implementation**      | Drawing Book                       | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/drawingBook/Solution.java)                 |
+| **Implementation**      | Electronics Shop                   | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/electronicsShop/Solution.java)             |
+| **Implementation**      | Equalize the Array                 | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/equalizeTheArray/Solution.java)            |
+| **Implementation**      | Extra Long Factorials              | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/extraLongFactorials/Solution.java)         |
 | **Implementation**      | Find digits                        | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/findDigits/Solution.java)                  |
 | **Implementation**      | Grading Students                   | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/gradingStudents/Solution.java)             |
 | **Implementation**      | Jumping On The Clouds:Revisited    | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/jumpingOnTheCloudsRevisited/Solution.java) |
+| **Implementation**      | Library Fine                       | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/libraryFine/Solution.java)                 |
 | **Implementation**      | Migratory Birds                    | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/migratoryBirds/Solution.java)              |
 | **Implementation**      | Number Line Jumps                  | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/numberLineJumps/Solution.java)             |
 | **Implementation**      | Sales by Match                     | [Solution.java](https://github.com/kaanacikgoz/HackerRank/blob/main/src/algorithms/implementation/salesByMatch/Solution.java)                |
